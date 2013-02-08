@@ -1,3 +1,6 @@
+//Ugly code, I am sorry oh great Scott Meyers, I have failed ye.
+
+
 #include "easybmp/EasyBMP.h"
 
 #include <iostream>
